@@ -7,8 +7,8 @@ npm install
 npm start
 ```
 
-## Make changes to /etc/hosts
-
+## Test Locally (localhost)
+Make changes to /etc/hosts
 ```bash
 127.0.0.1 mohmaya.knkt.io
 127.0.0.1 k1dk4t.knkt.io
