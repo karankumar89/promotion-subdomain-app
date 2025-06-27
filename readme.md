@@ -42,7 +42,7 @@ sudo snap install certbot --classic
 sudo snap install certbot-dns-digitalocean
 ```
 
-- [Create a Digital Ocean API token]for certbot.(https://cloud.digitalocean.com/account/api/tokens)
+- [Create a Digital Ocean API token](https://cloud.digitalocean.com/account/api/tokens) for certbot
 ```bash
 dns_digitalocean_token = YOUR_DIGITALOCEAN_API_TOKEN
 ....
